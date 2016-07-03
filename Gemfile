@@ -52,5 +52,4 @@ end
 group :production do #this will be used on Heroku
   gem 'pg'#postgresql
   gem 'rails_12factor'
-  gem 'rails-web-console'
 end
